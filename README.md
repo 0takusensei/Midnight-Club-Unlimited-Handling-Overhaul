@@ -234,13 +234,16 @@ FiveM Server:
 SPECIAL NOTE:
 
 From now on I will be pre-releasing the mod on my Patreon/GitHub about one month in advance before I update it on gta5-mods.com
-https://www.patreon.com/midnightclubunlimited
+https://www.patreon.com/midnightunlimited
 
 Also if you could subscribe
-https://www.youtube.com/@midnightclubunlimited
+https://www.youtube.com/@midnightunlimited
 
 and follow me on instagram
-https://www.instagram.com/midnightclubunlimited/
+https://www.instagram.com/midnight.unlimited/
+
+
+[![](https://invidget.switchblade.xyz/722602097081581568)](http://discord.gg/u7tgHb9yvE)
 
 
 **Special Thanks to**
