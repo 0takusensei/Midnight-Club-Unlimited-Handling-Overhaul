@@ -4,8 +4,7 @@ the Definitive GTA handling mod
 Convertible Summers aka itsHazeyo
 
 Proudly Presents,
-![midnight club template](<img width="2316" height="2896" alt="Box art" src="https://github.com/user-attachments/assets/ebfb7190-c924-4f81-906c-df8f8338477a" />
-)
+![midnight club template](https://github.com/user-attachments/assets/ebfb7190-c924-4f81-906c-df8f8338477a)
 GRAND THEFT AUTO 5:
 
 Midnight Club Unlimited
